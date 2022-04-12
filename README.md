@@ -2,7 +2,7 @@
 
 <p>🏃🏻‍♂️ Gosto de praticar esportes e ouvir músicas</p>
 <p>🖥Tecnologia é um tema muito interessante para mim</p>
-<p>📚 Estudando codificação</p>
+<p>📚 Estudante de programação</p>
 
 # Tecnologias que uso no meu dia
 <div style="display:inline_block><br/>
